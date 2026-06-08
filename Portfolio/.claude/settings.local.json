@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"c:\\\\Users\\\\DELL\\\\Desktop\\\\Portfolio\")",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-git)",
+      "Bash(npx create-next-app@latest portfolio-site --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-git)"
+    ]
+  }
+}
