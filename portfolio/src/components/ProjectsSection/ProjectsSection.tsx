@@ -8,7 +8,7 @@ const PROJECTS = [
     desc: "Built during internship at HCLTech — an LXI-based compliance testing tool that interfaces with Audio Analysers for automated hardware validation and protocol conformance testing.",
     tech: ["Python", "LXI Protocol", "Audio Analyser", "Hardware Interfacing"],
     link: "https://github.com/Akshayaqueen/lxi_tester",
-    image: "/projects/lxi-compliance-tester.png",
+    image: "https://github.com/Akshayaqueen/Portfolio/blob/main/ChatGPT%20Image%20Sep%2025%2C%202026%2C%2010_09_34%20AM.png",
   },
   {
     num: "02",
