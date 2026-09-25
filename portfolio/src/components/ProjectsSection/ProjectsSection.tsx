@@ -9,6 +9,7 @@ const PROJECTS = [
     tech: ["Python", "LXI Protocol", "Audio Analyser", "Hardware Interfacing"],
     link: "https://github.com/Akshayaqueen/lxi_tester",
     image: "/projects/lxi-compliance-tester.png"
+    
   },
   {
     num: "02",
